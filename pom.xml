@@ -43,8 +43,8 @@
                 <configuration>
                     <programs>
                         <program>
-                            <mainClass>ph.samson.mail.filter.Main</mainClass>
-                            <id>emf</id>
+                            <mainClass>ph.samson.mail.filter.Trace</mainClass>
+                            <id>emf-trace</id>
                         </program>
                     </programs>
                 </configuration>
